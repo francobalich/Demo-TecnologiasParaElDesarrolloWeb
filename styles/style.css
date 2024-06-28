@@ -84,8 +84,8 @@ form,
 }
 .form__container {
   display: flex;
- 
   gap: 5px;
+  flex-direction: column;
 }
 .row{
   flex-direction: row;
